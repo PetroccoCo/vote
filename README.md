@@ -38,7 +38,7 @@ In order to achieve goal number two (Open source my decision making process thro
 
 Please try to influence me, educate me, change my mind, argue with me, point out where I'm wrong, etc.
 
-- [Submit an issue](https://github.com/chrisman/vote/issues/new)
+- [Submit an issue](/issues/new)
 
 - Fork this repo and send me a pull request
 
