@@ -4,11 +4,13 @@ Increases taxes on e-cigarettes and tobacco, funding education and housing.
 
 ## Vote
 
-👍 Yes
+👎 No
 
 ## Why
 
-I think you probably can't tax tobacco products highly enough.
+While I think tobacco products should be heavily taxes to align with their detriment on society, this is going to be a pretty regressive tax.
+Additionally, the minimum pricing scheme in this law is also highly suspect. Likely this will create a monopoly in the tobacco industry which isn't great.
+I would like to see e-cigs taxed but this is poorly written and going to have adverse impacts.
 
 ## Resources
 

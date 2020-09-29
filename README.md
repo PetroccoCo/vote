@@ -17,11 +17,6 @@ Contents:
 
 - [2020-11-03: general election](2020/11-03/README.md)
 
-### Past elections
-
-- [2020-06-30: colorado primary](2020/06-30/README.md)
-- [2019-11-05](2019/11-05/README.md)
-
 ## Goals
 
 These are my goals:
@@ -38,7 +33,7 @@ In order to achieve goal number two (Open source my decision making process thro
 
 Please try to influence me, educate me, change my mind, argue with me, point out where I'm wrong, etc.
 
-- [Submit an issue](../issues/new)
+- [Submit an issue](https://github.com/PetroccoCo/vote/issues/new)
 
 - Fork this repo and send me a pull request
 
@@ -48,7 +43,9 @@ Please try to influence me, educate me, change my mind, argue with me, point out
 
 ## Inspiration
 
-This repo is inspired by, and is a fork of, [sreynen/vote](https://github.com/sreynen/vote).
+This repo is inspired by, and is a fork of:
+[sreynen/vote](https://github.com/sreynen/vote).
+[chrisman/vote](https://github.com/chrisman/vote)
 
 It is also a sort of spiritual successor to [busterbenson/public](https://github.com/busterbenson/public).
 

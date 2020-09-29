@@ -13,7 +13,7 @@ I will be voting in Denver, Colorado for this election.
 
 ### Propositions
 
-- ✅ [Proposition EE: Taxes on Nicotine Products](prop-ee.md)
+- 🚫 [Proposition EE: Taxes on Nicotine Products](prop-ee.md)
 - ✅ [Proposition 113: Adopt Agreement to Elect U.S. President By National Popular Vote](prop-113.md)
 - ✅ [Proposition 114: Reintroduction and Management of Gray Wolves](prop-114.md)
 - 🚫 [Proposition 115: Prohibit Abortions After 22 Weeks](prop-115.md)
